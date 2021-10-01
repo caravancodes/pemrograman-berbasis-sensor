@@ -1,0 +1,6 @@
+- Laptop dan Smartphone terkoneksi Internet (1 set perkelompok)
+- Registrasi thingspeak (1 account per kelompok)
+- Instalasi Board Manager untuk nodemCU pada arduino IDE (WAJIB dilakukan sebelum PRAKTIKUM !!!)
+- Include library thingspeak ke dalam Arduino IDE 
+
+- Persiapkan juga aplikasi Android yang akan digunakan 

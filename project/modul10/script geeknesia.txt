@@ -1,0 +1,17 @@
+pembuatan Apikey geeknesia :
+- register geeknesia
+- verifikasi email
+- create new project
+- create new gateway
+
+
+refferensi format penulisan API geeknesia:
+https://geeknesia1.docs.apiary.io/#reference/sending-data-to-geeknesia/send-attribute-using-get/send
+
+
+mengubah api (nilai temperature + humidity) dengan menggunakan browser:
+
+http://api.geeknesia.com/api/data?api_key=6f403d6874da2f4fded641c56183a503&attributes={"humidity":"60","temperature":"30"}
+
+api key percobaan 1 :
+2e6212f5b40348f2c644978b9d2b860e

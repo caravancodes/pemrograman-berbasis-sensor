@@ -1,0 +1,9 @@
+1. Gunakan skematik Proteus dari Modul-8 yang dimodifikasi (Arduino Uno, COMPIM, 1 LED, 1 LCD 16x2).
+2. Install aplikasi Blynk (Arduino, ESP8266, RPi) pada handphone Android.
+3. Virtual port: https://freevirtualserialports.com/
+4. Membuat server lokal Blynk: https://www.youtube.com/watch?v=XJNzjH-bYsA
+5. Proteus (COMPIM, COM1 virtual port) - Server Lokal Blynk (COM2 virtual port) - Wifi - Android (Blynk App).
+6. Download library Blynk untuk Arduino IDE.
+7. Salin sketch Arduino.
+8. Fungsional Blynk: ON-OFF LED, Menampilkan NIM anggota kelompok di LCD.
+9. Referensi tutorial: http://bit.ly/PBS_Modul9_ReferensiTutorial

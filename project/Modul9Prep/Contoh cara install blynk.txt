@@ -1,0 +1,29 @@
+1. Install aplikasi blynk dari playstore pada Android device.
+   - Jalankan aplikasi dan register
+   - create aplikasi baru ----> blynk akan mengirimkan TOKEN unik untuk setiap aplikasi ke alamat email yang diregister
+
+2. jalankan aplikasi Arduino IDE, 
+   - masukkan library blynk pada arduino ide
+   - copy program pada modul 9 , jangan lupa rubah TOKEN sesuai yang diterima dalam email, lalu  compile.
+
+3. jalankan virtual port. Create 1 port virtual. Pilih comport antara 1 - 4 yang bisa digunakan proteus. Running com tsb pada virtual port.
+
+4. jalankan command promt sebagai ADMIN. 
+   - ubah directory command promt ke directory lokasi file blynk-ser.bat berada. 
+   - Note: file blynk-ser.bat ada setelah library blynk diinstall pada arduino IDE.
+   - Lokasi default : C:\Users\user\Documents\Arduino\libraries\blynk-library-0.4.10\scripts
+     
+     jalankan perintah pada command promt : 
+                             blynk-ser.bat -c com4               (nilai com sesuai com virtual yang berjalan)
+     Apabila berjalan, tampilan akan seperti pada modul 9. (jangan close command prompt !)
+
+5. Buat proteus seperti modul 9. jangan lupa set baud rate dan com pada COMPIM.
+
+6. Cek program jalan : 
+   run aplikasi yang dibuat pada android,
+    simulasi proteus harus dalam keadaan running pada saat aplikasi blynk tersebut di-run.
+
+7. apabila tidak jalan, cek : jaringan internet, nomor token, baud rate, comport, virtual port, command promt.  
+                
+
+

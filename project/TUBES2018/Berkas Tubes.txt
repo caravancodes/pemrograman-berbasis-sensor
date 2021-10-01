@@ -1,0 +1,30 @@
+Berkas Tubes berisikan 3 folder :
+
+1. Spesifikasi, terdiri dari :
+   - Blok Diagram dan cara kerja sistem yang dibuat
+   - Rangkaian dan Komponen Hordware yang digunakan
+   - Komponen software yang digunakan (termasuk cloud yang digunakan)
+   - Kemampuan/Hasil uji sistem 
+   - Foto 
+2. Program :
+   - file .ino (program arduino IDE) - wajib
+   - Program pendukung lain seperti :
+       > APK dan source code nya
+       > bagan node red
+       > dll
+3. Video : 
+   - Demo Sistem 
+
+
+dikumpulkan paling lambat 8 Desember 2018.
+
+File dapat diCopy ke:
+
+http://bit.ly/PbsTubes2018
+
+atau kirim email ke 
+ 
+royahah@gmail.com
+
+       
+          

@@ -1,0 +1,21 @@
+Prosedur percobaan:
+1. Persiapkan koneksi Internet mandiri (non koneksi Tel-U). Misal 1 handphone untuk HotSpot.
+2. Persiapkan laptop dan handphone Android/iOS yang terhubung ke Internet.
+3. Ikuti prosedur pada modul bagian 4.
+
+Yang perlu didownload+install:
+
+0. PROTEUS + ARDUINO IDE !!!!!! 
+
+Proteus : 8.5
+cara install :
+https://www.instructables.com/id/How-to-Install-PROTEUS-8-in-MATLAB/
+
+Arduino IDE : download dari website arduino
+
+Cek dulu fungsionalitas setelah instalasi !!!!!!!!
+
+1. Blynk app pada smartphone (Android/iOS)
+2. Blynk library 0.4.0 pada Arduino IDE 
+   (Arduino IDE, Sketch >> Include Library >> Manage Libraries >> Blynk)
+3. Virtual Serial Port Kit (http://fabulatech.com) VSPE 
